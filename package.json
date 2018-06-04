@@ -1,0 +1,15 @@
+{
+  "name": "rewieer-blue-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "This is my own simple theme. It has the intent not to be colorful but instead focus on readability and focus.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/rewieer-blue-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
